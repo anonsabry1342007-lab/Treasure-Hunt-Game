@@ -1,5 +1,4 @@
 import random
-
 print("==============================")
 print("       TREASURE HUNT")
 print("==============================")
